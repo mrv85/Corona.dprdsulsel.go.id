@@ -1036,7 +1036,7 @@ Swal.queue([{
 
        if (result.value) {
 
-       location.replace("tobi.php");
+       location.replace("index.php");
 
        }
 
@@ -1238,4 +1238,4 @@ Swal.queue([{
 
        <!-- end Body -->
 
-</html>
+
